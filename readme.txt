@@ -1,5 +1,5 @@
-This is a repo that uses Computer Vision algorithms like Harr Cascade (Classifying technique) which is pre-trained on a given dataset (Files in ...) that finds the coordinates of the center of a phone in any given image.
-The accuracy of this model is 78% (accurate upto 0.05 units). The ground truths are given in a separate file: ./../......
+This is a repo that uses Computer Vision algorithms like Harr Cascade (Classifying technique) which is pre-trained on a given dataset (Files in custom_phone_dataset) that finds the coordinates of the center of a phone in any given image.
+The accuracy of this model is 78% (accurate upto 0.05 units).
 
 Ways to improve data collection:
     1. One of the best way to get even more accurate results is to avoid making the background the same colour as the main image. For example,
